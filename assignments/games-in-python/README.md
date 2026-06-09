@@ -1,5 +1,5 @@
 
-# 📘 Assignment: Games in Python
+# 📘 Assignment: Hangman Game
 
 ## 🎯 Objective
 
@@ -7,7 +7,7 @@ Build a Hangman game while practicing Python strings, loops, conditionals, and u
 
 ## 📝 Tasks
 
-### 🛠️ Hangman Game Logic
+### 🛠️ Implement Hangman Game Logic
 
 #### Description
 
